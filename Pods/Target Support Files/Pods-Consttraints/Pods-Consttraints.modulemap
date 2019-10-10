@@ -1,0 +1,6 @@
+framework module Pods_Consttraints {
+  umbrella header "Pods-Consttraints-umbrella.h"
+
+  export *
+  module * { export * }
+}
